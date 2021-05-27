@@ -1,4 +1,4 @@
-# PapyrusRT-SiriusTool
+# PapyrusRT - Sirius Tool
 *Sirius tool Import Files:*
 
 papyrusrt.zip contains: papyrusrt , papyrusrt.edit, papyrusrt.editor
