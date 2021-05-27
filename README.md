@@ -1,4 +1,4 @@
-# PapyrusRTModeler
+# PapyrusRT-SiriusTool
 *Sirius tool Import Files:*
 
 papyrusrt.zip contains: papyrusrt , papyrusrt.edit, papyrusrt.editor
